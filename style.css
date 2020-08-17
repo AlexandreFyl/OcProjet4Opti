@@ -824,6 +824,29 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentation.jpg");
 }
+/* PERSO */
+
+.partenaires {
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo {
+    border: #000000 1px solid;
+    border-radius: 10%;
+}
+
+.img-txt {
+    font-size: 1.5em;
+}
+
+.img-txt--1 {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+/* FIN PERSO */
+
 
 @media (max-width: 1024px) {
     .bloc {
