@@ -853,6 +853,11 @@ h4 {
     color: black!important;
 }
 
+.bgcontrast {
+    background-color: #003636;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
 /* FIN PERSO */
 
 
