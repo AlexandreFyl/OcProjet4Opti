@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -753,7 +753,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 1);
+    background-color: #003636;
     padding: 40px 40px 40px 40px;
 }
 
@@ -850,7 +850,7 @@ h4 {
 }
 
 .black {
-    color: black;
+    color: black!important;
 }
 
 /* FIN PERSO */
